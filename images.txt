@@ -8,4 +8,5 @@
 #ghcr.io/open-webui/open-webui:ollama
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
-b3log/siyuan
+#b3log/siyuan
+minio/minio
